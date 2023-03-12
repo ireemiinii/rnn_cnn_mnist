@@ -1,1 +1,1 @@
-Ankara csv ve xsls uzantılı veri kaynakları
+Ankara csv ve xlsx uzantılı veri kaynakları
